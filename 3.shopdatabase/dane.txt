@@ -1,0 +1,10 @@
+Toys 		tygrys	9.50 	Konarska 	33
+Toys 		tygrys 	9.50 	Szucha 		9
+Toys 		lalka 	20.0 	Konarska 	33
+Toys 		lalka	20.0 	Szucha		9
+Pluszaki 	mis 	4.0	Sloneczna 	5
+Toys 		tygrys	9.50 	Konarska 	33
+Toys 		tygrys 	9.50 	Szucha 		9
+Toys 		lalka 	20.0 	Konarska 	33
+Toys 		lalka	20.0 	Szucha		9
+Pluszaki 	mis 	4.0	Sloneczna 	5
